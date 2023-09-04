@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity {
     public void inicioJuego(View view){
 
         Intent intent = new Intent(MainActivity.this , MainActivity2.class);
+
+        intent.putExtra("tiempo inicial", System.currentTimeMillis()/1000);
         startActivity(intent);
 
 

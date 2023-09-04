@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="words" translatable="false" >
-        <item name="REDES" type="string" />
-        <item name="PROPA" type="string" />
-        <item name="TELITO" type="string" />
-        <item name="TELECO" type="string" />
-        <item name="BATI" type="string" />
-        <item name="PUCP" type="string" />
+    <string-array name="words" >
+        <item> REDES</item>
+        <item> PROPA</item>
+        <item> TELITO</item>
+        <item> TELECO </item>
+        <item> BATI </item>
+        <item> PUCP</item>
 
     </string-array>
 
